@@ -1,10 +1,10 @@
-package src.com.lambdaschool.solution;
+package com.lambdaschool.solution;
 
 public class App implements Processor
 {
     private CreateAthlete athlete;
 
-    public App(CreateAthlete athlete)
+    App(CreateAthlete athlete)
     {
         this.athlete = athlete;
     }

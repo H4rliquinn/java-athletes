@@ -1,4 +1,4 @@
-package src.com.lambdaschool.solution;
+package com.lambdaschool.solution;
 
 public class TrackAthleteImpl implements CreateAthlete
 {
